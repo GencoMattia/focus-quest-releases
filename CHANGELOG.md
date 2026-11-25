@@ -2,6 +2,10 @@
 
 Cosa cambia per te a ogni versione. Le versioni si scaricano dalla pagina [Releases](https://github.com/GencoMattia/focus-quest-releases/releases).
 
+## 0.7.1 · 25 novembre 2026
+
+- **Il sigillo nell'icona è più grande.** Nella lista delle app occupava meno di metà cerchio: ora si vede bene, come le icone accanto.
+
 ## 0.7.0 · 24 novembre 2026
 
 - **Nuovo nome e nuova icona.** Nella lista delle app ora c'è «Focus Quest» con un sigillo dorato e una clessidra, al posto di «focus_quest» con l'icona di Flutter. Anche la schermata di avvio è nuova, chiara o scura secondo il tema del telefono.
